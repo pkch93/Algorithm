@@ -7,15 +7,14 @@
 ![](Programming_site_img/programmers.JPG)
 ![](Programming_site_img/SW_Expert_Academy.JPG)
 
-## Environment
 
-> Java
-> JDK 1.8.0_171
-> Eclipse jee oxygen
+> ## Environment
+>> Java
+>> JDK 1.8.0_171
+>> Eclipse jee oxygen
 
-## License
-
-> MIT
+> ## License
+>> MIT
 
 ## 프로그래머스 (Programmers)
 
@@ -35,6 +34,16 @@
 
     문제 출처 : <https://programmers.co.kr/learn/courses/30/lessons/12936>
 
+    - [짝지어 제거하기](Programmers/level3/PairsRemove.java)
+
+    문제 출처 : <https://programmers.co.kr/learn/courses/30/lessons/12973>
+
+  * 2017 카카오코드 예선
+
+    - [카카오프렌즈 컬러링북](Programmers/kakao2017/ColoringBook.java)
+
+    문제 출처 : <https://programmers.co.kr/learn/courses/30/lessons/1829>
+
 ## SW_Expert_Academy
 
   * level5
@@ -50,3 +59,13 @@
     - [URI 코드](Algospot/Beginner/URIDecoding.java)
 
     문제 출처 : <https://algospot.com/judge/problem/read/URI>
+
+  * 동적계획법 (Dynamic Programming)
+
+    - [Coin Change 코드](Algospot/Beginner/dp/CoinChange.java)
+
+    문제 출처 : <https://algospot.com/judge/problem/read/COINS>
+
+    - [Best Path On a Diamond 코드](Algospot/Beginner/dp/DiamondPath.java)
+
+    문제 출처 : <https://algospot.com/judge/problem/read/DIAMONDPATH>
