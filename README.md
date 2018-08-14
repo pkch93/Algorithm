@@ -24,6 +24,19 @@
 
     문제 출처 : <https://www.acmicpc.net/problem/1463>
 
+    - 11052번 [붕어빵 판매하기](Beakjoon_Online_Judge/SellingBongappang.java)
+
+    문제 출처 : (https://www.acmicpc.net/problem/11052)
+
+  * 브루트 포스
+
+  > # 브루트 포스?
+  > 조합 가능한 모든 경우의 수를 대입하여 해답을 구하는 방식
+
+   - 2309번 [일곱 난쟁이](Beakjoon_Online_Judge/SevenDwarfs.java)
+
+    문제 출처 : (https://www.acmicpc.net/problem/2309)
+
   * 한국정보올림피아드 시도지역 본선
 
     - 지역본선 2015
