@@ -30,7 +30,7 @@
 
   * 브루트 포스
 
-  > # 브루트 포스?
+  > 브루트 포스?
   > 조합 가능한 모든 경우의 수를 대입하여 해답을 구하는 방식
 
    - 2309번 [일곱 난쟁이](Beakjoon_Online_Judge/SevenDwarfs.java)
@@ -73,13 +73,20 @@
 
     문제 출처 : <https://programmers.co.kr/learn/courses/30/lessons/1829>
 
+  * 코딩테스트 고득점 KIT (https://programmers.co.kr/learn/challenges)
+
+    - 완전 탐색
+
+      + [모의고사](Programmers/CodingTestPractice/ExhausiveSearch/MockTest.java)
+      + [카펫](Programmers/CodingTestPractice/ExhausiveSearch/Carpet.java)
+
 ## SW_Expert_Academy
 
   * level5
 
     - [초보자를 위한 점프대 배치하기 코드](SW_Expert_Academy/level5/JumpEquipment.java)
 
-    문제 출처 : <https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsV8IaAXsDFAVW&categoryId=AWGsV8IaAXsDFAVW&categoryType=CODE&&&>
+    [문제 보기](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsV8IaAXsDFAVW&categoryId=AWGsV8IaAXsDFAVW&categoryType=CODE&&&)
 
 ## Algospot Online Judge
 
