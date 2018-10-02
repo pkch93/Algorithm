@@ -69,6 +69,14 @@
 
       + [카펫](Programmers/CodingTestPractice/ExhausiveSearch/Carpet.java) [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42842)
 
+     - Greedy (탐욕법)
+
+      + [조이스틱](Programmers/CodingTestPractice/greedy/JoyStick.java) [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42860)
+
+     - DP
+
+      + [타일 장식물](Programmers/CodingTestPractice/dp/TileDeco.java) [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/43104)
+
 ## SW_Expert_Academy
 
   * level5
@@ -86,27 +94,3 @@
     - [Coin Change 코드](Algospot/Beginner/dp/CoinChange.java) [문제 보기](https://algospot.com/judge/problem/read/COINS)
 
     - [Best Path On a Diamond 코드](Algospot/Beginner/dp/DiamondPath.java) [문제 보기](https://algospot.com/judge/problem/read/DIAMONDPATH)
-
-## 알고리즘 풀이 일지
-
-- ### 09.20
-
-```
-프로그래머스의 코딩테스트 고득점 KIT의 완전탐색 문제를 풀어보았다.
-
-완전탐색이 약한것 같아 다른 주제보다도 먼저 풀어보기로 하였다. 그 중에서 모의고사, 카펫 문제를 풀었다. 나머지 두 문제(소수찾기, 숫자야구)는 추후에 풀어볼 예정이다.
-
-카펫은 쉽게 수학공식이 떠올라 어렵지 않게 풀 수 있었다.
-
-다만, 모의고사 문제에서 에로사항이 나타났다. 자바로 배열을 다루는 게 어렵다는 것을 다시 한 번 깨달았다...
-
-자바에서 배열을 다루는 방법 및 자바 8의 stream API에 대해 한 번 학습해야할 것 같다.
-```
-
- - ### 09.27
-
-```
-이전에 치렀던 카카오 개발자 blind 채용 1차 테스트 해설이 올라왔다.
-
-해설을 보면서 뭐가 부족했는지 어떤 방식으로 풀었어야 했는지 복기하는 시간을 가졌다.
-```
