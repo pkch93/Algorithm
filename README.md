@@ -63,6 +63,8 @@
 
       + [탑](Programmers/CodingTestPractice/stackqueue/Tower.java) | [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42588)
 
+      + [프린터](Programmers/CodingTestPractice/stackqueue/Printer.java) | [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42587)
+
     - 정렬
 
       + [K번째수](Programmers/CodingTestPractice/sorting/KthNumber.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42748)
@@ -79,9 +81,11 @@
 
       + [조이스틱](Programmers/CodingTestPractice/greedy/JoyStick.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42860)
 
-     - DP
+     - DP (동적계획법)
 
       + [타일 장식물](Programmers/CodingTestPractice/dp/TileDeco.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/43104)
+
+      + [정수 삼각형](Programmers/CodingTestPractice/dp/IntegerTriangle.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/43105)
 
 ## SW_Expert_Academy
 
