@@ -65,6 +65,8 @@
 
       + [프린터](Programmers/CodingTestPractice/stackqueue/Printer.java) | [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
+      + [기능개발](Programmers/CodingTestPractice/stackqueue/FunctionDev.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42586)
+
     - 정렬
 
       + [K번째수](Programmers/CodingTestPractice/sorting/KthNumber.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42748)
@@ -80,6 +82,8 @@
      - Greedy (탐욕법)
 
       + [조이스틱](Programmers/CodingTestPractice/greedy/JoyStick.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42860)
+
+      + [구명보트](Programmers/CodingTestPractice/greedy/SaveBoat.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42885)
 
      - DP (동적계획법)
 
