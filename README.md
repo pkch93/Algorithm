@@ -67,6 +67,8 @@
 
       + [기능개발](Programmers/CodingTestPractice/stackqueue/FunctionDev.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42586)
 
+      + [주식가격](Programmers/CodingTestPractice/stackqueue/StockPrice.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42584)
+
     - 정렬
 
       + [K번째수](Programmers/CodingTestPractice/sorting/KthNumber.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42748)
@@ -90,6 +92,8 @@
       + [타일 장식물](Programmers/CodingTestPractice/dp/TileDeco.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/43104)
 
       + [정수 삼각형](Programmers/CodingTestPractice/dp/IntegerTriangle.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/43105)
+
+      + [등굣길](Programmers/CodingTestPractice/dp/GoToSchool.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42898)
 
 ## SW_Expert_Academy
 
