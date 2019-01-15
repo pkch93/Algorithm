@@ -1,6 +1,10 @@
 # Algorithm
 
 > 알고리즘 문제 풀이 및 코드 관리
+>
+> 참고!
+>
+> 제가 최근에 python을 함께 공부하고 있어 Java 코드와 파이썬 코드가 같이 있을 수도 아니면 파이썬 코드만 있을 수도 있습니다.
 
 ![](Programming_site_img/BOJ.JPG)
 ![](Programming_site_img/Algospot.JPG)
@@ -8,15 +12,18 @@
 ![](Programming_site_img/SW_Expert_Academy.JPG)
 
 
-> ## Environment
-> Java
-> JDK 1.8.0_171
-> Eclipse jee oxygen
+## Environment
 
-> ## License
-> MIT
+Language | Version | IDE
+:---: | :---: | :---:
+Java | JDK 11.0.1 | Intellij / Eclipse
+Python | python 3.7.x | Pycharm 
 
 ## 백준 온라인 저지 (Beakjoon_Online_Judge)
+
+  - 1065번 [한수 코드](Beakjoon_Online_Judge/hansu.py) | [문제 보기](https://www.acmicpc.net/problem/1065)
+
+  - 1158번 [조세퍼스 문제 코드](Beakjoon_Online_Judge/josephus.py) | [문제 보기](https://www.acmicpc.net/problem/1158)
 
   * DP
 
@@ -96,6 +103,22 @@
       + [등굣길](Programmers/CodingTestPractice/dp/GoToSchool.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42898)
 
 ## SW_Expert_Academy
+
+  * level2
+
+    - [min max 코드](SW_Expert_Academy/level2/min_max.py) | [문제 보기 - 6차시 min max](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
+
+    - [숫자 카드 코드](SW_Expert_Academy/level2/numbercard.py) | [문제 보기 - 8차시 숫자카드](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
+
+    - [구간합 코드](SW_Expert_Academy/level2/interval_sum.py) | [문제 보기 - 9차시 구간합](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
+
+  * level3
+
+    - [전기 버스 코드](SW_Expert_Academy/level3/electronic_bus.py) | [문제 보기 - 7차시 전기 버스](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
+
+    - [flatten 코드](SW_Expert_Academy/level3/flatten.py) | [문제 보기 - 8차시 숫자카드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh&categoryId=AV139KOaABgCFAYh&categoryType=CODE)
+
+    - [View 코드 / 파이썬](SW_Expert_Academy/level3/view.py) | [View 코드 / 자바](SW_Expert_Academy/level3/View.java) | [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE)
 
   * level5
 
