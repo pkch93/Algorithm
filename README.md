@@ -16,8 +16,14 @@
 
 Language | Version | IDE
 :---: | :---: | :---:
-Java | JDK 11.0.1 | Intellij / Eclipse
+Java | JDK 11.0.1 / JDK 1.8 | Intellij / Eclipse
 Python | python 3.7.x | Pycharm 
+
+## Study Note
+
+> 알고리즘 기초 개념 정리
+
+[String / 문자열](edu/String.md)
 
 ## 백준 온라인 저지 (Beakjoon_Online_Judge)
 
@@ -45,6 +51,10 @@ Python | python 3.7.x | Pycharm
       + 10799번 [쇠막대기](Beakjoon_Online_Judge/StealPipe.java) | [문제 보기](https://www.acmicpc.net/problem/10799)
 
 ## 프로그래머스 (Programmers)
+
+  * 공채 대비 코딩테스트 실전 모의고사 2회
+
+    - [주관적 해설 보러가기 / Java](Programmers/mock_test_second)
 
   * level2
 
@@ -106,23 +116,37 @@ Python | python 3.7.x | Pycharm
 
   * level2
 
-    - [min max 코드](SW_Expert_Academy/level2/min_max.py) | [문제 보기 - 6차시 min max](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
+    - [min max 코드 / 파이썬](SW_Expert_Academy/level2/min_max.py) | [문제 보기 - 6차시 min max](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
 
-    - [숫자 카드 코드](SW_Expert_Academy/level2/numbercard.py) | [문제 보기 - 8차시 숫자카드](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
+    - [숫자 카드 코드 / 파이썬](SW_Expert_Academy/level2/numbercard.py) | [문제 보기 - 8차시 숫자카드](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
 
-    - [구간합 코드](SW_Expert_Academy/level2/interval_sum.py) | [문제 보기 - 9차시 구간합](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
+    - [구간합 코드 / 파이썬](SW_Expert_Academy/level2/interval_sum.py) | [문제 보기 - Course List1 9차시 구간합](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
+
+    - [색칠하기 코드 / 파이썬](SW_Expert_Academy/level2/coloring.py) | [문제보기 - Course List2 5차시 색칠하기](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+
+    - [이진탐색 코드 / 파이썬](SW_Expert_Academy/level2/coloring.py) | [문제보기 - Course List2 7차시 이진탐색](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
 
   * level3
 
-    - [전기 버스 코드](SW_Expert_Academy/level3/electronic_bus.py) | [문제 보기 - 7차시 전기 버스](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
+    - [전기 버스 코드 / 파이썬](SW_Expert_Academy/level3/electronic_bus.py) | [문제 보기 - Course List1 7차시 전기 버스](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
 
-    - [flatten 코드](SW_Expert_Academy/level3/flatten.py) | [문제 보기 - 8차시 숫자카드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh&categoryId=AV139KOaABgCFAYh&categoryType=CODE)
+    - [flatten 코드 / 파이썬](SW_Expert_Academy/level3/flatten.py) | [문제 보기 - flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh&categoryId=AV139KOaABgCFAYh&categoryType=CODE)
 
     - [View 코드 / 파이썬](SW_Expert_Academy/level3/view.py) | [View 코드 / 자바](SW_Expert_Academy/level3/View.java) | [문제 보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE)
+
+    - [Sum 코드 / 파이썬](SW_Expert_Academy/level3/sum.py) | [문제보기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE)
+
+    - [부분집합의 합 / 파이썬](SW_Expert_Academy/level3/subset_sum.py) | [문제보기 - Course List2 6차시 부분집합의 합](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+
+    - [특별한 정렬 / 파이썬](SW_Expert_Academy/level3/special_sort.py) | [문제보기 - Course List2 8차시 특별한 정렬](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+
+    - [GNS / 파이썬](SW_Expert_Academy/level3/gns.py) | [문제보기 - 1221. GNS](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD&categoryId=AV14jJh6ACYCFAYD&categoryType=CODE)
 
   * level5
 
     - [초보자를 위한 점프대 배치하기 코드](SW_Expert_Academy/level5/JumpEquipment.java) | [문제 보기](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsV8IaAXsDFAVW&categoryId=AWGsV8IaAXsDFAVW&categoryType=CODE&&&)
+
+    - [금속막대 코드 / 파이썬](SW_Expert_Academy/level5/stealstick.py) | [문제보기 - 1259. 금속막대](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN&categoryId=AV18NaZqIt8CFAZN&categoryType=CODE)
 
 ## Algospot Online Judge
 
