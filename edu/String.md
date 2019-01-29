@@ -1,6 +1,6 @@
 # String
 
-> 문자열의 개념과 관련 알고리즘
+> Algorithm 기본 파트 3. 문자열 (string)
 
 ## 1. 문자열?
 
@@ -96,6 +96,43 @@
     
     [python 문자열 비교 참고](https://stackoverflow.com/questions/4806911/string-comparison-technique-used-by-python)
     
+   - 참고! 컴퓨터에서 수를 표현하는 방법
+   
+     * 정수
+        
+          컴퓨터에서 정수는 이진수를 통해 표현한다.
+          맨 앞자리를 통해 `부호`와 `절대치`를 표현한다.
+          
+          ```
+          3bit가 있다고 가정
+          
+          양수 : 000 - 0 / 001 - 1 / 010 - 2 / 011 - 3
+          음수 : 100 - -0 / 101 - -1 / 110 - -2 / 111 - -3        
+          ```    
+          
+          단, 위 경우 0을 표현하는 방법이 2가지가 된다 (000 / 100)
+          
+          때문에 `2의 보수`로 수를 표현하는 방법이 등장했다.
+          
+          > 2의 보수는 1의 보수에서 1을 더한 값이다.
+        
+          **3bit에서 2의 보수로 표현하는 방법**
+          
+          정수 | 1의 보수 | 2의 보수
+          :---: | :---: | :---:
+          0 | 111 / 000 | 000
+          1 | 001 | 001
+          2 | 010 | 010
+          3 | 011 | 011
+          -1 | 110 | 111
+          -2 | 101 | 110
+          -3 | 100 | 101
+          -4 | 표현불가 | 100
+          
+          이렇게 1의 보수가 아닌 2의 보수를 쓰게 되면 0을 2번 표현하는 문제를 해결할 수 있으며 음수 하나를 더 표현할 수 있다.
+          
+          또한, 나타나는 또다른 장점으로는 음수 계산이 가능하게 된다!
+         
 ## 2. 패턴 매칭
 
    - Brute force
@@ -112,6 +149,45 @@
         
         시간복잡도는 O(n) (검사하려는 문자열의 길이만큼)
         
+     * 핵심 아이디어
+        
+          1. 접두사(prefix)와 접미사(suffix)
+               
+          2. 접두사와 접미사를 이용하여 중복을 피하도록 건너뛸 거리를 구한 pi 배열
+        
+     ```java
+     private int[] getPi(String pettern){
+          String [] temp = pettern.split("");
+          int len = pettern.length(), j = 0;
+          int [] pi = new int[len];
+          for (int i = 1; i < len; i++){
+               while (j > 0 && !temp[i].equals(temp[j])) j = pi[j - 1];
+               if (temp[i].equals(temp[j])) pi[i] = ++j;
+          }
+          return pi;
+     }
+
+     public List kmp(String str, String pettern){
+          String [] s = str.split("");
+          String [] p = pettern.split("");
+          int [] pi = getPi(pettern);
+          int n = s.length, m = p.length, j = 0;
+          ArrayList<Integer> answer = new ArrayList<>();
+          for (int i = 0; i < n; i++){
+               while(j > 0 && !s[i].equals(p[j])) j = pi[j-1];
+               if (s[i].equals(p[j])){
+                    if (j == m - 1) {
+                         answer.add(i - m + 1);
+                         j = pi[j];
+                    }
+                    else j++;
+               }
+          }
+          return answer;
+     }
+     ```
+     [KMP 참고](https://bowbowbow.tistory.com/6)
+                        
    - Boyer-Moore Algorithm
    
         오른쪽에서 왼쪽으로 비교
@@ -149,8 +225,8 @@
 
    - Run-Length encoding Algorithm
    
-     > 주로 bmp 파일의 압축 방법으로 사용되는 알고리즘
+        > 주로 bmp 파일의 압축 방법으로 사용되는 알고리즘
         
-     같은 값이 몇 번 반복되는가를 나타냄으로써 압축하는 방식
+        같은 값이 몇 번 반복되는가를 나타냄으로써 압축하는 방식
         
    - Huffman coding Algorithm

@@ -126,6 +126,13 @@ Python | python 3.7.x | Pycharm
 
     - [이진탐색 코드 / 파이썬](SW_Expert_Academy/level2/coloring.py) | [문제보기 - Course List2 7차시 이진탐색](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
 
+    - [문자열 비교 코드 / 파이썬](SW_Expert_Academy/level2/comparestr.py) | [문제보기 - Course String 3차시 문자열 비교](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+    
+    - [회문 코드 / 파이썬](SW_Expert_Academy/level2/palindrome.py) | [문제보기 - Course String 4차시 회문](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+    
+    - [글자수 코드 / 파이썬](SW_Expert_Academy/level2/countstr.py) | [문제보기 - Course String 5차시 글자수](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+
+
   * level3
 
     - [전기 버스 코드 / 파이썬](SW_Expert_Academy/level3/electronic_bus.py) | [문제 보기 - Course List1 7차시 전기 버스](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
@@ -141,6 +148,8 @@ Python | python 3.7.x | Pycharm
     - [특별한 정렬 / 파이썬](SW_Expert_Academy/level3/special_sort.py) | [문제보기 - Course List2 8차시 특별한 정렬](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
 
     - [GNS / 파이썬](SW_Expert_Academy/level3/gns.py) | [문제보기 - 1221. GNS](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD&categoryId=AV14jJh6ACYCFAYD&categoryType=CODE)
+
+    - [회문2 / 파이썬](SW_Expert_Academy/level3/palindrome2.py) | [문제보기 - 1216. 회문2](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi&categoryId=AV14Rq5aABUCFAYi&categoryType=CODE)
 
   * level5
 
