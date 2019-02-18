@@ -40,6 +40,7 @@ Python | python 3.7.x | Pycharm
   * 브루트 포스
 
 > ### 브루트 포스?
+>
 > 조합 가능한 모든 경우의 수를 대입하여 해답을 구하는 방식
 
    - 2309번 [일곱 난쟁이](Beakjoon_Online_Judge/SevenDwarfs.java) | [문제 보기](https://www.acmicpc.net/problem/2309)
@@ -132,6 +133,13 @@ Python | python 3.7.x | Pycharm
     
     - [글자수 코드 / 파이썬](SW_Expert_Academy/level2/countstr.py) | [문제보기 - Course String 5차시 글자수](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
 
+    - [종이붙이기 코드 / 파이썬](SW_Expert_Academy/level2/paste_paper.py) | [문제보기 Course Stack1 6차시 종이붙이기](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+
+    - [괄호검사 코드 / 파이썬](SW_Expert_Academy/level2/check_brace.py) | [문제보기 Course Stack1 7차시 괄호검사](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+
+    - [그래프 경로 코드 / 파이썬](SW_Expert_Academy/level2/graph_path.py) | [문제보기 Course Stack1 8차시 그래프 경로](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+
+    - [반복문자 지우기 코드 / 파이썬](SW_Expert_Academy/level2/repeat_words.py) | [문제보기 Course Stack1 9차시 반복문자 지우기](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
 
   * level3
 
@@ -150,12 +158,24 @@ Python | python 3.7.x | Pycharm
     - [GNS / 파이썬](SW_Expert_Academy/level3/gns.py) | [문제보기 - 1221. GNS](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD&categoryId=AV14jJh6ACYCFAYD&categoryType=CODE)
 
     - [회문2 / 파이썬](SW_Expert_Academy/level3/palindrome2.py) | [문제보기 - 1216. 회문2](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi&categoryId=AV14Rq5aABUCFAYi&categoryType=CODE)
+ 
+    - [Magnetic / 파이썬](SW_Expert_Academy/level3/magnetic.py) | [문제보기 - 1220. Magnetic](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE)
+
+  * level4
+
+    - [ladder1 / 파이썬](SW_Expert_Academy/level4/ladder1.py) | [문제보기 - 1219. ladder1](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AWhKdvi6ECkDFAS6&contestProbId=AV14ABYKADACFAYh&probBoxId=AWjbeWOaGo0DFAQn&type=PROBLEM&problemBoxTitle=2%EC%9B%94+11%EC%9D%BC&problemBoxCnt=1)
+
+    - [성수의 프로그래밍 강좌 시청 / 파이썬]() | [문제보기 - 6719. 성수의 프로그래밍 강좌 시청](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWd7sgDatsMDFAUh&categoryId=AWd7sgDatsMDFAUh&categoryType=CODE)
 
   * level5
 
     - [초보자를 위한 점프대 배치하기 코드](SW_Expert_Academy/level5/JumpEquipment.java) | [문제 보기](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsV8IaAXsDFAVW&categoryId=AWGsV8IaAXsDFAVW&categoryType=CODE&&&)
 
     - [금속막대 코드 / 파이썬](SW_Expert_Academy/level5/stealstick.py) | [문제보기 - 1259. 금속막대](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN&categoryId=AV18NaZqIt8CFAZN&categoryType=CODE)
+
+  * level6
+
+    - [작업순서 코드 / 파이썬](SW_Expert_Academy/level6/work_order.py) | [문제보기 - 1267. 작업순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18TrIqIwUCFAZN&categoryId=AV18TrIqIwUCFAZN&categoryType=CODE)
 
 ## Algospot Online Judge
 
