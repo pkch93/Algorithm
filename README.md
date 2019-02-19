@@ -141,6 +141,14 @@ Python | python 3.7.x | Pycharm
 
     - [반복문자 지우기 코드 / 파이썬](SW_Expert_Academy/level2/repeat_words.py) | [문제보기 Course Stack1 9차시 반복문자 지우기](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
 
+    - [Forth 코드 / 파이썬](SW_Expert_Academy/level2/forth.py) | [문제보기 Course Stack2 4차시 Forth](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIc7KqfQDFAWg)
+
+    - [미로 코드 / 파이썬](SW_Expert_Academy/level2/maze.py) | [문제보기 Course Stack2 5차시 미로](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIc7KqfQDFAWg)
+
+    - [토너먼트 카드게임 코드 / 파이썬](SW_Expert_Academy/level2/taurnament_card.py) | [문제보기 Course Stack2 6차시 토너먼트 카드게임](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIc7KqfQDFAWg)
+
+    - [배열 최소 합 코드 / 파이썬](SW_Expert_Academy/level2/array_min_sum.py) | [문제보기 Course Stack2 7차시 배열 최소 합](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIc7KqfQDFAWg)
+
   * level3
 
     - [전기 버스 코드 / 파이썬](SW_Expert_Academy/level3/electronic_bus.py) | [문제 보기 - Course List1 7차시 전기 버스](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)
