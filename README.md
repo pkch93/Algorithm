@@ -31,6 +31,22 @@ Python | python 3.7.x | Pycharm
 
   - 1158번 [조세퍼스 문제 코드](Beakjoon_Online_Judge/josephus.py) | [문제 보기](https://www.acmicpc.net/problem/1158)
 
+  - 2456번 (정보올림피아드 지역본선 2011 초등부/고등부) [나는 학급회장이다 코드](Beakjoon_Online_Judge/im_master.py) | [나는 학급회장이다 문제 보기](https://www.acmicpc.net/problem/2456)
+
+  - 2563번 (정보올림피아드 2007 초등부) [색종이 코드](Beakjoon_Online_Judge/color_paper.py) | [색종이 문제 보기](https://www.acmicpc.net/problem/2563)
+
+  - 2567번 (정보올림피아드 2007 중등부) [색종이 - 2 코드](Beakjoon_Online_Judge/color_paper_ad.py) | [색종이 - 2 문제 보기](https://www.acmicpc.net/problem/2567)
+
+  - 2605번 (정보올림피아드 2004 초등부) [줄 세우기 코드](Beakjoon_Online_Judge/lineup.py) | [줄 세우기 문제 보기](https://www.acmicpc.net/problem/2605)
+
+  - 7567번 [그릇 코드](Beakjoon_Online_Judge/bawl.py) | [그릇 문제 보기](https://www.acmicpc.net/problem/7567)
+
+  - 10157번 (정보올림피아드 지역본선 2014 초등부) [자리배정 코드](Beakjoon_Online_Judge/seat_assign.py) | [자리배정 문제 보기](https://www.acmicpc.net/problem/10157)
+
+  - 10162번 (정보올림피아드 2014 초등부) [전자레인지 코드](Beakjoon_Online_Judge/microwave.py) | [전자레인지 문제 보기](https://www.acmicpc.net/problem/10162)
+
+  - 15961번 (정보올림피아드 지역본선 2012 중등부) [회전초밥 코드](Beakjoon_Online_Judge/sushi.py) | [회전초밥 문제 보기](https://www.acmicpc.net/problem/15961)
+
   * DP
 
     - 1463번 [1로 만들기](Beakjoon_Online_Judge/MakeNumberOne.java) | [문제 보기](https://www.acmicpc.net/problem/1463)
