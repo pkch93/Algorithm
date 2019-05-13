@@ -47,6 +47,16 @@ Python | python 3.7.x | Pycharm
 
   - 15961번 (정보올림피아드 지역본선 2012 중등부) [회전초밥 코드](Beakjoon_Online_Judge/sushi.py) | [회전초밥 문제 보기](https://www.acmicpc.net/problem/15961)
 
+  - 17173번 (제3회 생각하는 프로그래밍 대회) [배수들의 합 코드](Beakjoon_Online_Judge/SumMultiple.java) | [배수들의 합 문제 보기](https://www.acmicpc.net/problem/17173)
+
+  - 17174번 (제3회 생각하는 프로그래밍 대회) [전체 계산 횟수 코드](Beakjoon_Online_Judge/TotalCalculate.java) | [전체 계산 횟수 문제 보기](https://www.acmicpc.net/problem/17174)
+
+  - 17175번 (제3회 생각하는 프로그래밍 대회) [피보나치는 지겨웡~ 코드](Beakjoon_Online_Judge/AnotherFibo.java) | [피보나치는 지겨웡~ 문제 보기](https://www.acmicpc.net/problem/17175)
+
+  - 17176번 (제3회 생각하는 프로그래밍 대회) [암호해독기 코드](Beakjoon_Online_Judge/PasswordDecoder.java) | [암호해독기 문제 보기](https://www.acmicpc.net/problem/17176)
+
+  - 17182번 (제3회 생각하는 프로그래밍 대회) [우주 탐사선 코드](Beakjoon_Online_Judge/SpaceProbe.java) | [우주 탐사선 문제 보기](https://www.acmicpc.net/problem/17182)
+  
   * DP
 
     - 1463번 [1로 만들기](Beakjoon_Online_Judge/MakeNumberOne.java) | [문제 보기](https://www.acmicpc.net/problem/1463)
