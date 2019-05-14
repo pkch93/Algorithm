@@ -91,7 +91,20 @@ Python | python 3.7.x | Pycharm
 
     - [같은 숫자는 싫어 코드](Programmers/level1/HateSameNum.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12906)
 
-    - [나누어 떨어지는 숫자 배열](Programmers/level1/DivisibleNumArr.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12910)
+    - [나누어 떨어지는 숫자 배열 코드](Programmers/level1/DivisibleNumArr.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12910)
+
+    - [두 정수 사이의 합 코드](Programmers/level1/SumInInteger.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12912)
+
+    - [문자열 내 p와 y의 개수 코드](Programmers/level1/NumOfPAndY.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12916)
+
+    - [문자열 내림차순으로 배치하기 코드](Programmers/level1/NumOfPAndY.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12917)
+
+    - [문자열 다루기 기본 코드](Programmers/level1/StringBasic.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12918)
+
+    - [서울에서 김서방 찾기 코드](Programmers/level1/FindKimInSeoul.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12919)
+
+    - [수박수박수박수박수박수? 코드](Programmers/level1/WaterMelon.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12922)
+
 
   * level2
 
