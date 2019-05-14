@@ -83,6 +83,16 @@ Python | python 3.7.x | Pycharm
 
     - [주관적 해설 보러가기 / Java](Programmers/mock_test_second)
 
+  * level1
+
+    - [2016년 코드](Programmers/level1/Year2016.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12901)
+
+    - [가운데 글자 가져오기 코드](Programmers/level1/CenterCharacter.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+
+    - [같은 숫자는 싫어 코드](Programmers/level1/HateSameNum.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12906)
+
+    - [나누어 떨어지는 숫자 배열](Programmers/level1/DivisibleNumArr.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12910)
+
   * level2
 
     - [영어 끝말잇기 코드](Programmers/level2/EndtoEnd.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=java)
