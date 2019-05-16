@@ -105,7 +105,17 @@ Python | python 3.7.x | Pycharm
 
     - [수박수박수박수박수박수? 코드](Programmers/level1/WaterMelon.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12922)
 
+    - [약수의 합 코드](Programmers/level1/DivisorSum.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12928)
 
+    - [이상한 문자 만들기](Programmers/level1/DivisorSum.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12930)
+
+    - [자리수 더하기](Programmers/level1/SumDisit.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12931)
+
+    - [자연수 뒤집어 배열로 만들기](Programmers/level1/ReverseLongToArray.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12932)
+
+    - [콜라츠 추측](Programmers/level1/Collatz.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12943)
+
+    -
   * level2
 
     - [영어 끝말잇기 코드](Programmers/level2/EndtoEnd.java) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=java)
